@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("TodoAppCmd")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6510e672d87fc75b656161e07dc8ffc5582517e9")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("TodoAppCmd")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("TodoAppCmd")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]

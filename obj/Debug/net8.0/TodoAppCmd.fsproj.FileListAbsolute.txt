@@ -45,3 +45,4 @@
 /home/henrique/projects/todoappcmd/bin/Debug/net8.0/FParsecCS.dll
 /home/henrique/projects/todoappcmd/bin/Debug/net8.0/FSharp.CommandLine.dll
 /home/henrique/projects/todoappcmd/bin/Debug/net8.0/FSharp.Scanf.dll
+/home/henrique/projects/todoappcmd/obj/Debug/net8.0/TodoAppCmd.sourcelink.json
